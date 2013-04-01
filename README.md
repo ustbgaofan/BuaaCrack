@@ -1,11 +1,12 @@
 A little tool to crack buaa wifi system
 ==================================================
-Author: *vonnyfly* 
+Author: *vonnyfly*   
 Email: *lifeng1519@gmail.com*
 ***
 Prerequisite
 ==================================================
 *   Python 2.7,Windows/Linux
+
 ***
 
 Description
